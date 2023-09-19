@@ -1,0 +1,10 @@
+{
+    "name": "XYZ plugin",
+    "author": "ABC",
+    "version": "1.0.0",
+    "description": "Integrate with DrGo's backend",
+    "location": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  }
+  
